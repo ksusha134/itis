@@ -10,3 +10,6 @@
 
 Нужно пройти до 5 октября:
 [курс по Python](https://coder.xetren.com/course/#workspace/IntroducingIfStatements/introducing_booleans)
+
+
+[инструкция по git](https://www.youtube.com/watch?v=7uiM8BJ_ZMM&list=PLuY6eeDuleIMtvOvJBAbakwcIdEt7IAXT)
