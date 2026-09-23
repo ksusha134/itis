@@ -6,3 +6,7 @@
 5. [pip-install + conda venv](https://www.anaconda.com/docs/getting-started/working-with-conda/packages/pip-install)
 6. [Урок по Jupyter](https://practicum.yandex.ru/blog/chto-takoe-jupyter-notebook/)
 7. [ds_resources](https://github.com/Extremesarova/ds_resources)
+
+
+Нужно пройти до 5 октября:
+[курс по Python](https://coder.xetren.com/course/#workspace/IntroducingIfStatements/introducing_booleans)
