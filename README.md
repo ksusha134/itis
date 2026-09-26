@@ -8,7 +8,7 @@
 7. [ds_resources](https://github.com/Extremesarova/ds_resources)
 
 
-Нужно пройти до 5 октября:
+Нужно пройти до 28 сентября:
 [курс по Python](https://coder.xetren.com/course/#workspace/IntroducingIfStatements/introducing_booleans)
 
 
