@@ -1,1 +1,2 @@
 #Полезные ссылки
+[инструкция по git](https://www.youtube.com/watch?v=7uiM8BJ_ZMM&list=PLuY6eeDuleIMtvOvJBAbakwcIdEt7IAXT)
