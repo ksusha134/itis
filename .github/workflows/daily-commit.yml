@@ -3,6 +3,8 @@ name: Daily commit
 on:
   schedule:
     - cron: '0 10 * * *'
+    - cron: '0 10 * * *'
+    - cron: '14 13 * * *'
   workflow_dispatch:
 
 permissions:
