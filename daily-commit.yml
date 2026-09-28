@@ -20,6 +20,7 @@ jobs:
 
       - name: Make daily update
         run: |
+          echo "" >> daily.md
           echo "Учёба: $(date '+%Y-%m-%d')" >> daily.md
 
       - name: Commit changes
