@@ -2,9 +2,9 @@ name: Daily commit
 
 on:
   schedule:
+    - cron: '0 5 * * *'
     - cron: '0 10 * * *'
-    - cron: '0 10 * * *'
-    - cron: '14 13 * * *'
+    - cron: '46 13 * * *'
   workflow_dispatch:
 
 permissions:
@@ -20,7 +20,10 @@ jobs:
 
       - name: Make daily update
         run: |
-          echo "Учёба: $(date '+%Y-%m-%d')" >> daily.md
+          if [ -s daily.md ]; then
+            echo "" >> daily.md
+          fi
+          echo "Учёба: $(date -u '+%Y-%m-%d %H:%M UTC')" >> daily.md
 
       - name: Commit and push changes
         run: |
